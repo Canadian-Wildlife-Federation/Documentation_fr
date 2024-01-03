@@ -1,0 +1,9 @@
+﻿Column,Description
+type,L’identifiant unique pour le type d’élément. Obligatoire.
+data_view,"Le nom racine de la vue de données qui prend en charge le type d’élément. Il s’agit du nom de vue sans le suffixe de la langue (par exemple, dams_view). Obligatoire."
+name_en,Le nom anglais interprétable par l’utilisateur du type d’élément. Obligatoire.
+name_fr,Le nom français interprétable par l’utilisateur du type d’élément. Obligatoire.
+attribute_source_table,Le tableau de données contenant les renseignements sur la source des données sur les attributs pour le type d’élément. Ce paramètre est facultatif et peut être réglé à null.
+default_featurename_field,Le champ de la vue data_view qui représente le nom de l’élément principal.
+feature_source_table,Le tableau de données contenant un lien entre les éléments et les renseignements de la source de données. Ce paramètre est facultatif et peut être réglé à null.
+data_version,Le numéro de version des données pour le type d’élément. Ce numéro de version est inclus dans les exportations.

@@ -1,0 +1,7 @@
+Code,Nom,Description
+1,Cross-flow ,Une turbine à impulsion utilisée dans les petites centrales hydroélectriques produisant entre 5 et 100 kW. On appelle aussi ce type de turbine « Banki-Mitchell » ou « Ossberger ».
+2,Francis  ,Une turbine à réaction (hélice) couramment utilisée dans les centrales hydroélectriques de moyenne ou de grande taille pour des hauteurs de chute de 2 à 300 m.
+3,Kaplan  ,Une turbine à réaction (hélice) à flux axial et à pales réglables. Particulièrement utile pour les barrages ayant de grands volumes d’écoulement.
+4,Pelton ,Une turbine à impulsion couramment utilisée dans les installations dont la hauteur de chute est supérieure à 300 m.
+5,Other,"Le type de turbine est connu, mais il est différent de ceux définis dans ce tableau."
+99,Unknown,Le type de turbine est inconnu.

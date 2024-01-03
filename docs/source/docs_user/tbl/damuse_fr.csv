@@ -1,0 +1,13 @@
+Code,Nom,Description
+1,Irrigation,"Fournit des quantités contrôlées d’eau à la terre ou aux cultures aux intervalles requis."
+2,Hydroelectricity,"Produit de l’électricité en faisant passer de l’eau à travers une turbine hydraulique."
+3,Water supply,"Stocke et fournit de l’eau à des fins particulières (par exemple, approvisionnement en eau domestique urbain et rural ou utilisation industrielle)."
+4,Flood control,"Réduit les effets des eaux en crue ou des niveaux d’eau élevés sur les zones en aval."
+5,Recreation,"Le réservoir permet la pratique d’activités récréatives (par exemple, natation, navigation de plaisance ou pêche)."
+6,Navigation,"Augmente le niveau des rivières pour permettre aux bateaux de naviguer dans des eaux qui étaient auparavant impraticables."
+7,Fisheries,"Réglemente le débit d’eau à des fins d’aquaculture."
+8,Pollution control,"Protège la ressource d’eau en retenant l’eau polluée dans des réservoirs ou des étangs."
+9,Invasive species control,"Empêche la propagation d’espèces envahissantes en amont ou dans des zones écologiquement sensibles au sein de l’étendue d’eau."
+10,Wildlife Conservation,"Régule le débit d’eau à des fins de conservation de la faune (par exemple, habitat de sauvagine)."
+11,Other,"L’utilisation prévue du barrage ne peut pas être définie par les catégories d’utilisation définies dans ce tableau."
+99,Unknown,"L’utilisation prévue du barrage est inconnue."

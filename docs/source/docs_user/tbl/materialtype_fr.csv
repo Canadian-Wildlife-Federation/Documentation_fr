@@ -1,0 +1,9 @@
+Code,Nom,Description
+1,Concrete,"La structure est principalement composée de béton."
+2,Masonry,"La structure est principalement composée de pierres et/ou de briques et de mortier."
+3,Earth,"La structure est principalement composée de terre."
+4,Rock,"La structure est principalement composée d’enrochements déversés et compactés ou de blocs rocheux."
+5,Timber,"La structure est principalement composée de bois d’œuvre ou de planches de bois. Matériau couramment utilisé comme structure de détournement temporaire pendant la construction d’un barrage principal. Les structures construites en bois d’œuvre peuvent comprendre des structures à pieux, à encoffrement, à pieux et à encoffrement, à contrefort ou à planches."
+6,Steel,"La structure est principalement composée d’acier. Matériau parfois utilisé pour les structures temporaires (par exemple, batardeaux) dans le cadre de la construction d’un barrage principal. On peut compléter les structures en acier au moyen de bois d’œuvre et de terre pour augmenter leur imperméabilité."
+7,Other,"Le matériaux de construction principal est connu, mais il est différent de ceux définis dans ce tableau."
+99,Unknown,"Le matériaux de construction principal est inconnu."

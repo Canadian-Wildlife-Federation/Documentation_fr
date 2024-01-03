@@ -1,0 +1,3 @@
+Nom,Description,Valeur Shapefile,Valeur Geopackage
+true,Le point d’élément doit être utilisé pour l’analyse et est relié au réseau hydrographique.,T,1
+false,Le point d’élément ne doit pas être utilisé pour l’analyse et n’est pas relié au réseau hydrographique.,F,0

@@ -1,0 +1,6 @@
+Column,Description
+id,Numéro unique généré par le système
+email,Adresse courriel de l’utilisateur
+name,Nom de l’utilisateur
+organization,(Facultatif) Organisation associée à l’utilisateur
+datasource_id,"(Facultatif) Lien vers le tableau cabd.data_source, qui représente la source de données associée à l’utilisateur."

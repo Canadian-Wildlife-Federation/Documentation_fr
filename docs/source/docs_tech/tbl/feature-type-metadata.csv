@@ -1,0 +1,19 @@
+﻿Column,Description
+view_name,Le nom de la vue de données.
+field_name,Le nom du champ de la vue de données qui représente cet attribut.
+name_en,Le nom anglais de l’attribut.
+name_fr,Le nom français de l’attribut.
+description_en,Une description en anglais de l’attribut.
+description_fr,Une description en français de l’attribut.
+is_link,"Opérateur booléen. Si la valeur est true, cet attribut sera traité comme une URL dans l’API. La valeur sera renvoyée au format URL (par exemple, lien vers un autre élément)."
+data_type,"Le type de données pour l’attribut. Valeurs valides : varchar(xxx), text, boolean, array(type), integer, double, uuid, date, geometry."
+vw_simple_order,Métadonnées pour l’interface utilisateur. L’interface utilisateur offre une vue simple et complète des attributs. Ce champ représente l’ordre dans lequel l’attribut devrait être affiché dans la vue de l’interface utilisateur simple. La valeur devrait être réglée à null pour les attributs qui ne doivent pas être affichés dans la vue simple.
+vw_all_order,Métadonnées pour l’interface utilisateur. L’interface utilisateur offre une vue simple et complète des attributs. Ce champ représente l’ordre dans lequel l’attribut devrait être affiché dans la vue de tous les attributs. La valeur devrait être réglée à null pour les attributs qui ne devraient pas être affichés dans la vue.
+include_vector_tile,"Opérateur booléen. Si la valeur est true, cet attribut sera inclus dans le service de tuiles vectorielles."
+value_options_reference,"Pour les colonnes ayant une liste définie des valeurs valides dans un autre tableau de la base de données (par exemple, province_territory_code), ce champ indique le tableau à partir duquel les valeurs peuvent être chargées ainsi que les champs du tableau qui fournissent la valeur, le nom et la description. La valeur de cette colonne devrait être réglée à null pour les champs qui ne font pas référence à des tableaux.
+
+La chaîne devrait présenter la forme suivante : <tablename>;<valuefield>;<namefield>;<descriptionfield>. Toutes ces valeurs sont obligatoires, sauf valuefield et descriptionfield. La valeur tablename fait référence au tableau de codes, la valeur valuefield fait référence au champ de valeur du tableau de codes, la valeur namefield fait référence au champ de nom interprétable par l’utilisateur, et la valeur descriptionfield fait référence au champ de description du tableau. Les champs du nom et de la description devraient exclure le suffixe de la langue, et chaque tableau de référence devrait comporter les colonnes _en et _fr pour les champs du nom et de la description.
+
+Par exemple, dams.use_codes;code;name;description dams.use_codes;code;name;description ou cabd.province_territory_codes;code;name;.
+
+is_name_search,Valeur « true » (vrai) si le champ doit être inclus dans la recherche Name API. Doit être réglé à true pour tous les attributs qui représentent le nom de l’élément ou que l’on souhaite inclure lors d’une recherche par nom."

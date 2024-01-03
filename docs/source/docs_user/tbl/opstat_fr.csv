@@ -1,0 +1,7 @@
+Code,Nom,Description
+1,Abandoned/ Orphaned ,La structure n’est pas en service; il n’y a pas de propriétaire identifiable ayant une responsabilité légale.
+2,Active ,La structure est en service et fonctionne comme prévu.
+3,Decommissioned/Removed ,Structure démantelée ou retirée.
+4,Retired/ Closed ,"La structure a été mise hors service, mais elle est toujours en place."
+5,Remediated ,"La structure est toujours en place, mais on l’a modifiée pour permettre aux poissons de passer."
+99,Unknown ,L’état d’exploitation de la structure est inconnu.

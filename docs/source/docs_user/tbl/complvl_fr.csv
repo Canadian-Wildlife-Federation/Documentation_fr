@@ -1,0 +1,5 @@
+Code,Nom,Description (Barrages),Description (Chutes),Description (Passes à poissons)
+1,Unverified ,"L’enregistrement n’a pas été vérifié.",L’enregistrement n’a pas été vérifié.,L’enregistrement n’a pas été vérifié.
+2,Minimal  ,"L’emplacement a été vérifié, mais peu de données sur les attributs ont été saisies. ",Seul l’emplacement a été vérifié. ,Seul l’emplacement a été vérifié.
+3,Moderate ,"L’emplacement a été vérifié et la plupart des données sur les attributs ont été saisies. ",L’emplacement et la hauteur sont connus; on ne sait pas si la chute constitue un obstacle pour les poissons. ,L’emplacement et certains attributs sont connus.
+4,Complete ,"L’emplacement a été vérifié et toutes les données sur les attributs ont été saisies. ",L’emplacement et la hauteur sont connus; on a confirmé qu’il s’agissait d’un obstacle pour les poissons. ,L’emplacement et tous les attributs sont connus.

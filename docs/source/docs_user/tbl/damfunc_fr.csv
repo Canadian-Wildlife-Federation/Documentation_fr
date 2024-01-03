@@ -1,0 +1,13 @@
+Code,Nom,Description
+1,Storage,"Une structure construite pour stocker de l’eau à des fins diverses (approvisionnement en eau, irrigation, prévention de la pollution, etc.)."
+2,Diversion,"Une structure construite pour détourner la totalité ou une partie d’une étendue d’eau, souvent dans un canal ou un conduit artificiel."
+3,Detention,"Une structure construite à des fins de prévention des inondations. Retient l’excès d’eau dans un réservoir pour maintenir la capacité de transport de l’étendue d’eau, et le libère graduellement à un rythme contrôlé de façon à protéger les zones en aval contre les inondations."
+4,Saddle,"Une structure auxiliaire construite aux dépressions le long du périmètre d’un réservoir pour limiter son étendue, ou pour permettre une augmentation de la capacité de stockage."
+5,Hydro - Closed-cycle pumped storage,"Une structure faisant partie d’une installation configurée pour pomper de l’eau entre deux réservoirs situés à des altitudes différentes; les deux réservoirs sont isolés d’une source d’eau à écoulement libre."
+6,Hydro - Conventional storage,"Une structure faisant partie d’une installation retenant de l’eau qui, une fois libérée, s’écoule à travers une turbine et produit de l’électricité."
+7,Hydro - Open-cycle pumped storage,"Une structure faisant partie d’une installation configurée pour pomper de l’eau entre deux réservoirs situés à des altitudes différentes; on utilise une source d’eau à écoulement libre pour le réservoir supérieur ou le réservoir inférieur."
+8,Hydro - Run-of-river,"Une structure faisant partie d’une installation qui canalise ou siphonne de l’eau d’une source à travers une prise d’eau et dans un canal ou une conduite forcée pour faire tourner une turbine."
+9,Hydro - Tidal,"Une structure faisant partie d’une installation configurée pour capter et stocker de l’eau à marée haute et la libérer lentement dans l’océan à marée basse."
+10,Hydro - Other,"Une structure qui fait partie d’une installation que l’on utilise pour produire de l’hydroélectricité, dont le processus de production est inconnu ou différent de ceux définis dans ce tableau."
+11,Other,"La fonction de la structure est connue, mais elle est différente de celles définies dans ce tableau (par exemple, contrôle des débris ou batardeaux). Occasionnellement, certaines structures latérales (par exemple, canaux, endiguements et digues) peuvent avoir une fonction particulière autre que celles définies dans ce tableau et auxquelles on doit attribuer une fonction de barrage other."
+99,Unknown,"La fonction de la structure est inconnue."

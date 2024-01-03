@@ -1,0 +1,70 @@
+﻿Name ,Data type ,PK ,FK ,UQ ,Not null ,Default value ,Description 
+cabd_id ,uuid ,✓ ,,,✓ ,,Unique identifier for each barrier point. 
+latitude ,float8 ,,,,✓ ,,Latitude of point location of dam in decimal degrees; the point location is only an approximation of the actual dam location (held in geometry). 
+longitude ,float8 ,,,,✓ ,,Longitude of point location of dam in decimal degrees; the point location is only an approximation of the actual dam location (held in geometry). 
+dam_name_en ,varchar(512) ,,,,,,Given or known name of the dam structure (English). 
+dam_name_fr ,varchar(512) ,,,,,,Given or known name of the dam structure (French). 
+waterbody_name_en ,varchar(512) ,,,,,,Name of waterbody in which the dam is recorded (English). 
+waterbody_name_fr ,varchar(512) ,,,,,,Name of waterbody in which the dam is recorded (French). 
+reservoir_name_en ,varchar(512) ,,,,,,"Name of the reservoir or controlled lake (i.e., impounded waterbody; English). "
+reservoir_name_fr ,varchar(512) ,,,,,,"Name of the reservoir or controlled lake (i.e., impounded waterbody; French). "
+nhn_sub_sub_drainage_name ,,,,,,,Name associated with NHN Work Unit polygons (WSCSSDANAME field value). 
+nhn_workunit_id ,varchar(7) ,,✓ ,,,,Unique codes assigned to NHN Work Unit polygons. 
+province_territory_code ,varchar(2) ,,✓ ,,✓ ,,Code referencing the Province or Territory in which the structure resides. 
+municipality ,varchar(512) ,,,,,,Name of nearest municipality. 
+owner ,varchar(512) ,,,,,,"Person, company, organization, government unit, public utility, corporation or other entity which either holds a water license to operate a dam or retains the legal property title on the dam site. "
+ownership_type_code ,int2 ,,✓ ,,,,Code referencing barrier ownership type. 
+provincial_compliance_status ,varchar(64) ,,,,,,The status of regulatory compliance with provincial licensing body. 
+federal_compliance_status ,varchar(64) ,,,,,,The status of regulatory compliance with the federal licensing body. 
+operating_notes ,text ,,,,,,Unstructured comments on important operation considerations for the dam structure. 
+operating_status_code ,int2 ,,✓ ,,,,Code referencing the operating status of the dam. 
+use_code ,int2 ,,✓ ,,,,Code referencing the primary use of the dam and associated facilities. 
+use_irrigation_code ,int2 ,,,,,,"Indicates the dam is used for irrigation purposes, and the extent to which irrigation is a planned use (i.e., main use, major use, or secondary use). "
+use_electricity_code ,int2 ,,,,,,"Indicates the dam is used for hydroelectric energy production, and the extent to which hydroelectric production is a planned use (i.e., main use, major use, or secondary use). "
+use_supply_code ,int2 ,,,,,,"Indicates the dam is used for water supply purposes, and the extent to which water supply is a planned use (i.e., main use, major use, or secondary use). "
+use_floodcontrol_code ,int2 ,,,,,,"Indicates the dam is used for flood control purposes, and the extent to which flood control is a planned use (i.e., main use, major use, or secondary use). "
+use_recreaction_code ,int2 ,,,,,,"Indicates the dam is used for recreation purposes, and the extent to which recreation is a planned use (i.e., main use, major use, or secondary use). "
+use_navigation_code ,int2 ,,,,,,"Indicates the dam is used for navigation, and the extent to which navigation is a planned use (i.e., main use, major use, or secondary use). "
+use_fish_code ,int2 ,,,,,,"Indicates the dam is used for fisheries purposes, and the extent to which fisheries are a planned use (i.e., main use, major use, or secondary use). "
+use_pollution_code ,int2 ,,,,,,"Indicates the dam is used for pollution control purposes, and the extent to which pollution control is a planned use (i.e., main use, major use, or secondary use). "
+use_invasivespecies_code ,int2 ,,,,,,"Indicates the dam is used in control invasive species and the extent to which invasive species control is a planned use (i.e., Main use, major use, or secondary use). "
+use_other_code ,int2 ,,,,,,"Indicates the dam is used for “other” purposes, and the extent to which it is a planned use (i.e., Main use, major use, or secondary use). "
+lake_control_code ,int2 ,,,,,,"Indicates whether a reservoir has been built at the location of an existing natural lake using a lake control structure; currently this column only contains limited entries; “Yes” = lake control structure raises original lake level; “Enlarged” = lake control structure enlarged the original lake surface area; “Maybe” = not sure, but data seems to indicate a lake control structure. "
+construction_year ,numeric ,,,,,,Year in which the dam was built (not further specified: year of construction; year of completion; year of commissioning; year of refurbishment/update; etc.) 
+assess_schedule ,varchar(100) ,,,,,,Frequency at which the dam structure is assessed by ownership party or regulatory body. 
+maintenance_last ,date ,,,,,,Date of last maintenance or renovation work performed on the barrier. 
+maintenance_next ,date ,,,,,,Date of the next scheduled maintenance or renovation work performed on the barrier. 
+expected_life ,int2 ,,,,,,Number of years the dam structure is expected to last. 
+condition_code ,int2 ,,✓ ,,,,Code referencing the physical condition of the dam. 
+function_code ,int2 ,,✓ ,,,,Code referencing the function of the dam. 
+construction_type_code ,int2 ,,✓ ,,,,Code referencing the dam structure type based on construction material/design. 
+height_m ,float4 ,,,,,,"Reported height of the dam in meters. Depending on the data source this could variably be height of dam wall, crest height, or head height. "
+length_m ,float4 ,,,,,,Length of the crest of the dam from one bank (or abutment) to the other in meters. 
+size_class_code ,int2 ,,✓ ,,,,The size classification of the dam based on the height of the dam in meters (dam_hgt_m). 
+spillway_capacity ,float8 ,,,,,,The designed capacity of the spillway in m3 per second. 
+spillway_type_code ,int2 ,,✓ ,,,,Code referencing spillway type. 
+reservoir_present ,bool ,,,,,,Indicates if a reservoir is present due to the creation of the dam. 
+reservoir_area_sqkm ,float4 ,,,,,,Representative surface area of reservoir in square kilometers. 
+reservoir_depth_m ,float4 ,,,,,,Average depth of reservoir in meters. 
+storage_capacity_mcm ,float8 ,,,,,,Storage capacity of reservoir in million cubic meters. 
+avg_rate_of_discharge_ls ,float8 ,,,,,,Average rate of discharge at dam location in liters per second. 
+degree_of_regulation_pc ,float4 ,,,,,,"Degree of Regulation (DOR) in percent; equivalent to “residence time” of water in the reservoir; calculated as ratio between storage capacity (‘Cap_mcm’) and total annual flow (derived from ‘Dis_avg_ls’); values capped at 10,000 indicate exceedingly high values, which may be due to inconsistencies in the data and/or incorrect allocation to the river network and the associated discharges. "
+provincial_flow_req ,float8 ,,,,,,Legislated flow requirements for the dam structure in cubic meters per second (m3/s) regulated by the provincial licensing body. 
+federal_flow_req ,float8 ,,,,,,Minimum flow recommendations for the dam structure in cubic meters per second (m3/s). Based on assessments by Fisheries and Oceans Canada for the protection of fish and fish habitat. 
+catchment_area_skm ,float8 ,,,,,,Area of upstream catchment draining into the reservoir in square kilometers. The area of upstream catchment is defined by “Elementary Catchment” units in the National Hydrography Network. 
+upstream_linear_km ,float8 ,,,,,,The amount of unobstructed linear kilometers upstream of the barrier that would become available to aquatic species if the barrier were to be remediated.  
+hydro_peaking_system ,bool ,,,,,,Indicates if the dam employs a hydro peaking system. 
+generating_capacity_mwh ,float8 ,,,,,,The amount of electricity the hydroelectric facility can produce in megawatt hours. 
+turbine_number ,int2 ,,,,,,The number of turbines in the dam structure. 
+up_passage_type_code ,int2 ,,✓ ,,,,Code referencing the upstream fish passage measure type. 
+down_passage_route_code ,int2 ,,✓ ,,,,Code referencing the downstream fish passage routes. 
+passability_status_code ,int2 ,,✓ ,,,,Code referencing the degree to which the structure acts as a barrier to fish in the upstream direction. 
+passability_status_note ,varchar(256) ,,,,,,"Unstructured notes to provide context for the assigned passability status code (e.g., species restrictions). "
+last_modified ,date ,,,,,,"Most recent date of the data source used to create, revise or confirm the dam record. "
+turbine_type_code ,int2 ,,✓ ,,,,Code referencing turbine type. 
+data_source_id ,varchar(256) ,,,,,,The unique id assigned to the dam record in the original data source. 
+data_source ,varchar(256) ,,,,,,The original data source from which the dam record was obtained. 
+comments ,text ,,,,,,Unstructured comments about the dam. 
+complete_level_code ,int2 ,,✓ ,,,,Code referencing the level of information available for the barrier structure. 
+original_point ,"geometry(POINT, 3395) ",,,,✓ ,,This column contains the original spatial representation of the dam feature. Only point features are supported. 
+snapped_point ,"geometry(POINT, 3395) ",,,,✓ ,,This column contains the snapped spatial representation of the dam feature. Only point features are supported. 

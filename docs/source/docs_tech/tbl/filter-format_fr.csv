@@ -1,0 +1,4 @@
+﻿Parameter,Description
+|filterattr|,|fttype2|
+|filterop|,"L’opérateur de filtre. La valeur dépend du type de données. Les opérateurs pris en charge comprennent les suivants : ``in``, ``notin``, ``eq``, ``neq``, ``lt``, ``lte``, ``gt``, ``gte``, ``like``, ``isnull``, et ``notnull``."
+|filtervals|,"Valeurs pour le filtre. Pour les opérateurs ``in`` et ``notin``, il s’agit d’une liste de valeurs séparées par des virgules. Pour les opérateurs ``isnull`` et ``notnull``, cette valeur doit être nulle (exemple : ``filter=field:isnull:``)."

@@ -1,0 +1,9 @@
+Code,Nom,Description
+1,Charity/ Non-profit,Entité privée qui n’offre pas d’avantage financier à ses membres ou organisations; indépendante de tout gouvernement.
+2,Federal,"Organisation gouvernementale nationale (par exemple, ministère, agence ou société d’État) qui exerce des fonctions réglementaires et administratives au niveau national."
+3,Municipal,"Corps dirigeant local qui fournit des services, des installations, des mesures de sécurité et des infrastructures aux communautés."
+4,Private,"Organisation, société ou partenariat à but lucratif qui n’est ni public ni contrôlé par une ou plusieurs sociétés publiques."
+5,Provincial/ Territorial,Organisation gouvernementale régionale ayant compétence sur ses limites régionales particulières.
+6,Other,"La propriété est connue, mais elle est différente de celle définie dans ce tableau. Cette catégorie comprend les particuliers."
+7,Indigenous,"Peuples, groupes ou communautés autochtones."
+99,Unknown,La propriété du barrage est inconnue.

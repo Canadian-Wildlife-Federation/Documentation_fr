@@ -1,0 +1,4 @@
+Code,Nom,Description
+1,Yes ,La structure de régulateur du niveau du lac a augmenté le niveau d’eau original.
+2,Enlarged,La structure de régulateur du niveau du lac a agrandi la superficie originale du lac.
+3,Maybe  ,"Inconnu, mais les données indiquent la présence d’une structure de contrôle d’un lac."

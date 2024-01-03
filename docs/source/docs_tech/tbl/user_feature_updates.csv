@@ -1,0 +1,9 @@
+Column,Description
+id,Identifiant unique généré par le système
+datetime,Date et heure de la soumission
+contact_id,Lien vers la personne-ressource qui a soumis la modification
+cabd_id,Lien vers l’élément auquel la mise à jour fait référence
+cabd_type,Type d’élément BDOAC
+user_description,La description de la mise à jour fournie par l’utilisateur
+user_data_source,La source de données fournie par l’utilisateur
+status,Champ interne représentant l’état de la mise à jour. Géré par les administrateurs de la BDOAC.

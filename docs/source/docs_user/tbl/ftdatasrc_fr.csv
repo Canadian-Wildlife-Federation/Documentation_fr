@@ -1,0 +1,4 @@
+Nom,Description
+attribute_field_name,"Le nom de l’attribut, tiré des renseignements provenant d’une source de données particulière."
+datasource_name ,"Le nom abrégé de la source de données que l’on a utilisée pour saisir les renseignements de l’attribut connexe."
+datasource_feature_id,"L’identifiant unique de l’élément du jeu de données de la source spatiale originale que l’on a utilisé pour saisir les renseignements de l’attribut connexe. Ce champ sera vide si la source de données n’est pas spatiale."

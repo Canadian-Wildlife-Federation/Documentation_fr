@@ -1,0 +1,5 @@
+Code,Nom,Description
+1,Small,Un barrage d’une hauteur de moins de 5 m. 
+2,Medium,Un barrage d’une hauteur de 5 à 15 m.
+3,Large,"Un barrage d’une hauteur de 15 m ou plus, ou d’une hauteur de 5 à 15 m avec retenue de plus de 3 000 000 m3."
+99,Unknown,La taille du barrage est inconnue.

@@ -1,0 +1,16 @@
+CABD Changelog
+
+Date: 2022-09-25 09:00 AM
+Version: 1.0
+Summary: Initial release comprising complete national coverage for data layers.
+
+Data Layers
+
+dams 1.0
+- 36,799 dams
+
+waterfalls 1.0
+- 22,194 waterfalls
+
+fishways 1.0
+- 408 fishways

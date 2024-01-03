@@ -1,0 +1,3 @@
+﻿Parameter,Description
+|namefilterop|,"L’opérateur de filtre. Les opérateurs pris en charge comprennent les suivants : ``in``, ``notin``, ``eq``, ``neq``, et ``like``"
+|namefiltervals|,"Valeurs pour le filtre. Pour les opérateurs ``in`` et ``notin``, il s’agit d’une liste de valeurs séparées par des virgules. "

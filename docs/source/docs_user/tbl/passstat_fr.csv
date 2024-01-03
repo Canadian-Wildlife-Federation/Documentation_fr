@@ -1,0 +1,5 @@
+Code,Nom,Description,(Barrages),(Chutes)
+1,Barrier,La structure agit comme un obstacle infranchissable pour toutes les espèces aquatiques.,Le barrage n’a pas de passe à poissons connexe.,La chute a une hauteur de 5 m ou plus.
+2,Partial Barrier,"La structure peut constituer un obstacle pour certaines espèces aquatiques, mais peut être franchissable pour d’autres.",Le barrage a une passe à poissons connexe.,La chute a une hauteur de moins de 5 m.
+3,Passable,La structure ne constitue pas un obstacle pour les espèces aquatiques.,L’état de la structure indique qu’elle a été mise hors service ou retirée et elle ne constitue donc plus un obstacle pour le passage des poissons.,"s/o"
+4,Unknown, L’état du passage de la structure est inconnu., s/o, La hauteur de la chute est inconnue.

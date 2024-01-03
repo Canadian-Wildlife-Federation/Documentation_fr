@@ -1,0 +1,8 @@
+Value,Use case
+Bridge?,The structure may be a bridge instead of a dam. Bridges are generally built over larger areas of a river/lake.
+Check location on network,"The NHN hydro network has a gap in this area (e.g., disconnected flowpaths on either side of a structure) or behaves strangely near the dam (e.g., intermittent flowpaths around a pond/lake)."
+Infrastructure,"The structure is a canal, dyke, embankment, or other infrastructure feature part of a dam complex. Infrastructure features will typically not be used for analysis."
+No structures present,"The imagery quality is high, and you have a clear view of the hydro network/area, but there are no visible structures."
+Obscured in imagery,"The imagery quality is poor, or dense tree/vegetation cover is present where the structure should be."
+Relocated,"Based on imagery or additional documentation about a feature, you have moved the structure point a significant distance from where it was placed in the original dataset."
+Road crossing?,"The structure may be a road crossing (e.g., a culvert) instead of a dam. "

@@ -1,0 +1,12 @@
+Column,Description
+revision,"Le numéro de révision unique et incrémentiel."
+datetime,"L’horodatage associé à la modification."
+username,"L’utilisateur qui a effectué la modification. Il s’agit de l’utilisateur PostgreSQL qui a effectué la modification."
+schemaname,"Le schéma du tableau modifié."
+tablename,"Le nom du tableau modifié."
+action,"INSERT, UPDATE ou DELETE."
+cabd_id,"L’identifiant d’élément BDOAC, le cas échéant, ou la valeur null. Ce champ sera rempli pour la plupart des modifications, mais il ne sera pas rempli pour les modifications apportées aux tableaux contacts, fish_species et datasources."
+datasource_id,"L’identifiant de la source de données, le cas échéant, ou la valeur null. Ce champ sera rempli si le tableau comporte un champ datasource_id qui fait partie de la clé primaire du tableau."
+id_pk,"La clé primaire pour la ligne en cours de modification, le cas échéant, ou la valeur null. Ce champ est rempli pour les tableaux dont les clés primaires ne sont pas cabd_id ou datasource_id (par exemple, contacts et fish_species)."
+oldvalues,"Les valeurs originales de la ligne (avant la mise à jour). Cela n’inclut que les valeurs qui ont été modifiées."
+newvalues,"Les nouvelles valeurs pour la ligne. Cela n’inclut que les valeurs qui ont été modifiées. Les valeurs qui restent inchangées ne sont pas incluses."

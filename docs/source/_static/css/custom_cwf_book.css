@@ -1,0 +1,221 @@
+/*LEFT NAVIGATION*/
+/*Navigation caption heading colour*/
+nav.bd-links p.caption {
+    color: #0a4f58
+}
+
+/*Navigation heading colour when selected*/
+#site-navigation nav ul.nav a:hover, #site-navigation nav ul.nav li.active>a, #site-navigation nav ul.nav li.active {
+    color: #03837f !important
+}
+
+/*Navigation heading colour on hover*/
+#site-navigation nav ul.nav a:hover, #site-navigation nav ul.nav li.active>a, #site-navigation nav ul.nav li.active>a:hover {
+    color: #03837f !important
+}
+
+/*Credit box: 1) text colour, 2) text colour hover, 3) border colour*/
+a {
+    color: #03837f
+}
+
+a:hover {
+    color: #0a4f58
+}
+
+#site-navigation div.navbar_extra_footer {
+    border-color:#03837f !important
+}
+
+
+
+/*BODY TEXT LINK ELEMENTS*/
+/*Main page TOC link colour and font weight*/
+main.bd-content #main-content a, main.bd-content #main-content a:visited {
+    color: #4091D9;
+    text-decoration: underline;
+}
+
+/*text-stroke to "bold" links on hover - will appear for users using browsers that support it*/
+@supports (-webkit-text-stroke: 0.75px #4091D9) {
+    main.bd-content #main-content a:hover {
+        -webkit-text-stroke: 0.75px #4091D9;
+    }
+}
+
+
+
+
+/*BODY TEXT*/
+p {
+    color:#535353;  
+}
+
+
+/*FOOTER ELEMENTS*/
+/*Footer button title text corrected for text body link underline and text-stroke colour*/
+.prev-next-area a p.prev-next-title {
+    color:#0a4f58!important; 
+    -webkit-text-stroke: 0.01px #ffffff;
+}
+.prev-next-area a:hover p.prev-next-title {
+    font-weight: bold!important;
+}
+.prev-next-area a .prev-next-info .prev-next-subtitle {
+    -webkit-text-stroke: 0.01px #ffffff;
+}
+.prev-next-area i {
+    -webkit-text-stroke: 0.01px #ffffff;
+}
+.prev-next-area a {
+    text-decoration: none!important;
+    color:#0a4f58!important; 
+}
+
+
+/*HEADER ELEMENTS*/
+/*Page headers*/
+.heading-style, h1, h2, h3, h4, h5, h6 {
+    margin: 2rem 0 2.0rem;
+    font-family: var(--pst-font-family-heading);
+    line-height: 1.5;
+}
+h1 {
+    color: #07383e!important;
+    font-weight: 700;
+}
+h2 {
+    color: #0a4f58!important;
+    font-weight: 700;
+}
+h3 {
+    color: #0a4f58!important;
+    font-weight: 640;
+}
+h4 {
+    color: #03837f!important;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+/*TABLE ELEMENTS*/
+/*Formatting for static html - data dictionary*/
+.bd-content .section table {
+    display: inline-table;
+}
+
+.table caption {
+    background-color: #0a4f58!important;
+}
+caption {
+    text-align: center;
+    caption-side: top;
+    color: #ffffff!important;
+}
+.table, .table caption, .table th, .table td {
+    border: 1px solid #0a4f587a!important;
+}
+.table th, .table .title, .table .label {
+    background-color: #0a4f583b!important;
+}
+.title, th {
+    font-weight: bold;
+    text-align: center;
+    color: #0a4f58!important;
+}
+.data-type {
+    color: #CC3600!important;
+}
+.nav-link {
+    background-color: #f2f2f3!important;
+  }
+
+/*stop navbar font from changing when data dictionary is viewed*/
+ul {
+    font-family: var(--pst-font-family-base);
+}
+
+nav.bd-links p.caption {
+    font-family: var(--pst-font-family-base);
+}
+
+  /*MISC ELEMENTS*/
+  /*Fixes the floating sidebar on the data dictionary page*/
+body {
+    margin-left: inherit!important;
+    margin-top: inherit!important;
+}
+
+/* code blocks */
+code {
+    background-color: rgb(175 184 193 / 20%);
+    border-radius: 6px;
+    color: #CC3600;
+    padding: 0.2em 0.4em;
+    padding-top: 0.2em;
+    padding-right: 0.4em;
+    padding-bottom: 0.2em;
+    padding-left: 0.4em;
+}
+
+/*Topics bar aesthetic*/
+.toc-entry>.nav-link.active {
+    color: #5A5A5A!important;
+}
+
+/*default colour overrides: topics bar, note admonition, important admonition, warning admonition*/
+:root {
+    --pst-color-link: 90, 90, 90;
+    --pst-color-primary: 30, 115, 138;
+    --pst-color-info: 199, 140, 61;
+    --pst-color-danger: 160, 66, 84;
+}
+
+/*Horizontal lines*/
+hr {
+    border-top: 3px solid #e5e5e5;
+}
+
+/*Font size adjustment for tables*/
+
+.bd-content .section table {
+    font-size: 90%;
+}
+
+span.pre {
+    font-family: var(--pst-font-family-base);
+    font-size: 1.15em;
+}
+
+/*code block styling class elements for multi-coloured code blocks - see rst-epilog for implementation*/
+.cbm {
+    background-color
+    : rgb(175 184 193 / 20%);
+    border-radius: 6px;
+    color: #CC3600;
+    padding: 0.2em 0.4em;
+    padding-top: 0.2em;
+    padding-right: 0.4em;
+    padding-bottom: 0.2em;
+    padding-left: 0.4em;
+}
+
+.cbmcc {
+    color: #2a997d;
+}
+
+.toggle .header {
+    display: block;
+    clear: both;
+}
+
+.toggle .header:after {
+    content: "▸";
+    font-size: 30px;
+}
+
+.toggle .header.open:after {
+    content: "▾";
+    font-size: 30px;
+}

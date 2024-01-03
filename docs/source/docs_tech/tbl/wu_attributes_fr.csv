@@ -1,0 +1,5 @@
+﻿Nom d’attribut,Description
+id,L’identifiant d’unité de travail RHN (DATASETNAM).
+major_drainage_area,Aires de drainage principales des Relevés hydrologiques du Canada (WSCMDA).
+sub_drainage_area,Sous-aires de drainage des Relevés hydrologiques du Canada (WSCSDA).
+sub_sub_drainage_area,Sous-sous-aires de drainage des Relevés hydrologiques du Canada (WSCSSDA).

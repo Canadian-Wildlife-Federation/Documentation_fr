@@ -1,0 +1,11 @@
+Code,Nom,Description
+1,Denil,"Une série de déflecteurs rapprochés placés au fond ou sur les côtés d’un canal incliné (jusqu’à 20 %) afin de rediriger l’écoulement de l’eau et de réduire sa vitesse, de façon à permettre aux poissons de remonter le courant et de migrer vers l’amont."
+2,Nature-like fishway,"Un canal de détournement creusé le long de la berge de la rivière, permettant aux poissons de contourner l’obstacle."
+3,Pool and weir,"Une série de petits bassins de débordement et de déversoirs formant des marches entre lesquelles les poissons peuvent sauter pour migrer vers l’amont."
+4,Pool and weir with hole,"Une série de petits bassins de débordement et de déversoirs dotés de trous submergés dans lesquels les poissons peuvent sauter pour migrer vers l’amont."
+5,Trap and truck,"Les poissons sont piégés et transportés en amont de l’obstacle, puis libérés."
+6,Vertical slot,"Une variante des passes à poissons à bassins et à déversoirs dans le cadre de laquelle les déversoirs sont remplacés par des parois avec des fentes verticales à travers lesquelles les poissons peuvent passer, ce qui leur permet de nager à la profondeur souhaitée."
+7,Other,"Il y a une mesure de passage à poissons, mais elle est différente des types définis dans ce tableau."
+8,No structure,"Il n’y a aucune mesure de passage à poissons."
+99,Unknown,"Il y a des mesures de passage à poissons, mais aucun autre renseignement n’est disponible."
+n/a,NULL,"Aucun renseignement sur les passages à poissons n’est disponible."

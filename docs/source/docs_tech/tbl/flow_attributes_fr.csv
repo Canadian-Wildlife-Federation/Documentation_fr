@@ -1,0 +1,12 @@
+﻿Nom d’attribut,Description
+type,Le type d’élément (flowpath ou waterbody).
+feature_type,La classification de l’élément. Consultez les attributs ef_type (pour les trajets d’écoulement) et ec_type (pour les plans d’eau) dans la documentation du modèle de données CHyF pour voir les valeurs valides.
+feature_type_name,"Le nom du type d’élément (par exemple, Skeleton ou Reach)."
+subtype,La sous-classification de l’élément. Consultez les attributs ef_sub_type (pour les trajets d’écoulement) et ec_sub_type (pour les plans d’eau) dans la documentation du modèle de données CHyF pour voir les valeurs valides.
+subtype_name,Le nom de la sous-classification de l’élément.
+size,"La taille de l’élément. Pour les éléments linéaires, il s’agit de la longueur, en mètres, tandis que pour les éléments polygonaux, il s’agit de la superficie, en mètres carrés."
+rank,"Le rang associé à l’élément (primaire/secondaire). Cela ne s’applique qu’aux trajets d’écoulement linéaires. Pour en savoir plus, consultez l’attribut rank dans la documentation du modèle de données CHyF."
+strahler_order,"L’ordre de Strahler associé à l’élément. Pour les plans d’eau, il s’agit de l’ordre de Strahler maximal de toutes les lignes de squelette associées au plan d’eau. L’ordre de Strahler est seulement calculé pour les trajets d’écoulement primaires reach, infrastructure et skeleton. La valeur sera null pour tous les autres trajets d’écoulements et corps d’eau qui ne contiennent pas l’un de ces éléments."
+name_en,Le nom anglais associé à l’élément 
+name_fr,Le nom français associé à l’élément
+is_reservoir,"Seulement appliqué aux plans d’eau. Sera vrai si le plan d’eau est classé comme un réservoir, sinon les valeurs seront fausses, nulles ou manquantes."

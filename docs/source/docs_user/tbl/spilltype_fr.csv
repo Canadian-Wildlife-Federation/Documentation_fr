@@ -1,0 +1,7 @@
+Code,Nom,Description
+1,Combined,Évacuateur de crues unique qui sert à la fois d’évacuateur principal et d’évacuateur d’urgence.
+2,Free,Le surplus d’eau tombe librement de la crête du déversoir; évacuateur de crues en chute directe ou en chute libre.
+3,Gated,Le surplus d’eau est régulé par une vanne afin d’éviter les inondations en aval.
+4,Other,"Le type de déversoir du barrage est d’un autre type que combiné (combined), à seuil libre (free) ou à vannes (gated)."
+5,None,La structure n’est pas dotée d’un évacuateur de crues.
+99,Unknown,"La structure est dotée d’un évacuateur de crues, mais le type est inconnu."

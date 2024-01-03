@@ -1,0 +1,4 @@
+﻿Column,Description
+cabd_id,L’identifiant d’élément unique de la BDOAC. Cet identifiant doit être indiqué dans le tableau de données correspondant pour le type d’élément.
+datasource_id,Lien vers l’identifiant de source de données dans le tableau cabd.data_source.
+datasource_feature_id,L’identifiant de l’élément dans la source de données.

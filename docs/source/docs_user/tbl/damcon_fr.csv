@@ -1,0 +1,5 @@
+Code,Nom,Description
+1,Good,"La structure convient à l’usage prévu; elle n’est pas endommagée et est capable de répondre aux normes de rendement convenues."
+2,Fair,"La structure est dans un état moyen et présente des défauts mineurs."
+3,Poor,La structure s’est détériorée et nécessite un entretien.
+4,Unreliable,La structure ne convient pas à l’usage prévu.

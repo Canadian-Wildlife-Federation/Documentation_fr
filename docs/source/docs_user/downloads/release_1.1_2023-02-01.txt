@@ -1,0 +1,16 @@
+CABD Changelog
+
+Date: February 1, 2023 11:00 AM EST
+Version: 1.1
+Summary: Updated version of the dams dataset with a modified data structure to allow for more detailed categorization of structures. construction_material_code has been added as a new attribute. The valid values for structure_type_code and function_code have also been modified to allow for better categorization. Most codes for ‘Unknown’ values have also been updated to code 99, with the exception of Passability Status. The ‘Unknown’ value for Passability Status remains as code 4. Please review the Data Catalogue on the CABD documentation site for the latest list of valid values for all attributes. 
+
+Data Layers
+
+dams 1.1
+- 36,794 structures
+
+waterfalls 1.0
+- 22,194 waterfalls
+
+fishways 1.0
+- 408 fishways

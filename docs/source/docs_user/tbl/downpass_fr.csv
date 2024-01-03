@@ -1,0 +1,5 @@
+Code,Nom,Description
+1,Bypass  ,"On utilise une grille à poissons pour canaliser les poissons juvéniles en aval de la structure, en contournant le canal de turbine. "
+2,River Channel ,"Les poissons se déplacent en aval de la structure, en passant par le chenal naturel de la rivière."
+3,Spillway ,"Les poissons se déplacent en aval de la structure, en passant par-dessus l’évacuateur de crue."
+4,Turbine  ,"Les poissons se déplacent en aval de la structure, en passant à travers le canal de turbine."
