@@ -1,8 +1,8 @@
 .. _sources:
 
-==================
+===================
 Sources des données
-==================
+===================
 
 Vous pouvez accéder aux renseignements sur toutes les sources des données spatiales et non spatiales à l’onglet « sources des données » dans le panneau de gauche. La page « sources des données » du site de documentation de la BDOAC s’ouvrira dans un nouvel onglet de votre navigateur lorsque vous cliquerez sur le bouton prévu à cette fin.
 
@@ -16,4 +16,4 @@ La page « sources des données » contient un tableau dans lequel vous pouvez e
     :align: left
     :width: 90%
 
-Vous pouvez comparer les noms abrégés de source de données figurant dans ce tableau aux valeurs fournies dans les colonnes datasource_name du fichier CSV « Détails sur la source des données sur l'élément ». `Cliquez ici pour en savoir plus <https://cabd-docs.netlify.app/docs_user/docs_user_data_sources/docs_user_data_sources_csv_download.html#csv-contents>`_.
+Vous pouvez comparer les noms abrégés de source de données figurant dans ce tableau aux valeurs fournies dans les colonnes datasource_name du fichier CSV « Détails sur la source des données sur l'élément ». `Cliquez ici pour en savoir plus <https://cabd-docs-fr.netlify.app/docs_user/docs_user_data_sources/docs_user_data_sources_csv_download.html#csv-contents>`_.

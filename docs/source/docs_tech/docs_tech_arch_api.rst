@@ -7,8 +7,8 @@
 
 .. _cabd-rest-services:
 
-CABD Services API REST
-######################
+BDOAC Services API REST
+#######################
 
 .. _api-overview:
 

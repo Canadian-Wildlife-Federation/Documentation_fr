@@ -1,6 +1,6 @@
 ﻿Column,Description
 id,Un identifiant unique pour la source de données.
-name,Nom de la source de données (correspond aux noms abrégés indiqués à la <https://cabd-docs.netlify.app/docs_user/docs_user_data_sources.html>`_).
+name,Nom de la source de données (correspond aux noms abrégés indiqués à la <https://cabd-docs-fr.netlify.app/docs_user/docs_user_data_sources.html>`_).
 version_date,Date de la version des sources des données.
 version_number,Numéro de la version des sources des données (facultatif).
 source,Un lien vers les données sources ou une référence complète ainsi qu’une description de l’origine des données sources.

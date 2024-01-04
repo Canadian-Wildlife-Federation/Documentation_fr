@@ -17,7 +17,7 @@ Téléchargement des renseignements sur la source des données
 
 Au bas de la vue simple et de la vue détaillée, vous trouverez un lien sur lequel vous pouvez cliquer pour télécharger une liste des sources des données dont sont tirés les renseignements sur les attributs de la structure. Les renseignements seront téléchargés au format CSV.
 
-Veuillez consulter la section `Téléchargement des détails sur la source des données sur l’élément <https://cabd-docs.netlify.app/docs_user/docs_user_data_sources/docs_user_data_sources_csv_download.html#csv-contents>`_ du site de documentation BDOAC pour en savoir plus sur le contenu du tableau CSV.
+Veuillez consulter la section `Téléchargement des détails sur la source des données sur l’élément <https://cabd-docs-fr.netlify.app/docs_user/docs_user_data_sources/docs_user_data_sources_csv_download.html#csv-contents>`_ du site de documentation BDOAC pour en savoir plus sur le contenu du tableau CSV.
 
 .. figure:: img/attributes_popup_download_highlight_fr.png
     :align: left

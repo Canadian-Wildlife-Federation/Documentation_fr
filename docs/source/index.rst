@@ -36,7 +36,7 @@ Consultez la section **Ressources utilisateurs BDOAC** si vous souhaitez l'explo
 - Les :ref:`sources des données <data-sources>` utilisées pour développer le BDOAC
 - Les :ref:`définitions <data-catalogue>` des couches de données et des attributs associés
 - Comment nous aider :ref:`à combler les lacunes des données <submit-updates>` en soumettant des mises à jour d'utilisateurs
-- Le :ref:`processus d'engagement <stakeholder-engagement>` qui a soutenu le développement de la CABD et des outils associés
+- Le :ref:`processus d'engagement <stakeholder-engagement>` qui a soutenu le développement de la BDOAC et des outils associés
 
 Si vous souhaitez vous plonger dans les aspects plus techniques de la base de données, consultez la section **Documentations techniques du BDOAC** :
 
@@ -44,7 +44,7 @@ Si vous souhaitez vous plonger dans les aspects plus techniques de la base de do
 - Comment accéder aux données et aux sources des données de la BDOAC via :ref:`les services API REST <cabd-rest-services>`
 - Apprendre comment les données de la BDOAC ont été :ref:`compilées et traitées <reviewmethods>`
 
-Le CABD est un projet collaboratif développé et maintenu par la Fédération canadienne de la faune. Vous pouvez visiter notre `site web <https://cwf-fcf.org/fr/explorer/permettre-le-passage-du-poisson/>`_ pour en savoir plus sur notre travail en faveur de la connectivité des eaux douces et du passage des poissons.
+Le BDOAC est un projet collaboratif développé et maintenu par la Fédération canadienne de la faune. Vous pouvez visiter notre `site web <https://cwf-fcf.org/fr/explorer/permettre-le-passage-du-poisson/>`_ pour en savoir plus sur notre travail en faveur de la connectivité des eaux douces et du passage des poissons.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Remerciements pour le financement

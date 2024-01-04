@@ -25,11 +25,11 @@ L’image ci-dessous est un exemple de tableau CSV des sources des données. Les
 
 2. L’identifiant unique d’obstacle ou de système (cabd_id) de la structure.
 	
-3. Le lien vers la page `Sources des données <https://cabd-docs.netlify.app/docs_user/docs_user_data_sources.html>`_ qui contient les renseignements d’attribution pour les données contenues dans la base de données.
+3. Le lien vers la page `Sources des données <https://cabd-docs-fr.netlify.app/docs_user/docs_user_data_sources.html>`_ qui contient les renseignements d’attribution pour les données contenues dans la base de données.
     
    .. admonition:: Remarque
        
-       Vous pouvez recouper les noms abrégés des sources des données dans le document CSV (cases 4, 6 et 8) avec les renseignements de la page `Sources des données <https://cabd-docs.netlify.app/docs_user/docs_user_data_sources.html>`_ afin de déterminer le nom complet et les renseignements de référence de chaque source de données.
+       Vous pouvez recouper les noms abrégés des sources des données dans le document CSV (cases 4, 6 et 8) avec les renseignements de la page `Sources des données <https://cabd-docs-fr.netlify.app/docs_user/docs_user_data_sources.html>`_ afin de déterminer le nom complet et les renseignements de référence de chaque source de données.
 	
 4. La liste des sources des données spatiales qui contiennent un point correspondant pour la structure.
 

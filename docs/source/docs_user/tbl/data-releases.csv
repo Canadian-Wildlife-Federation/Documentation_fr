@@ -1,9 +1,13 @@
 ﻿Version,Date de publication,Description,Journal des modifications
 1.2, "08 janvier 2024 11 h 00 (HE)", "Cette version comprend :
 
-- barrages v.1.2
+- Barrages v.1.2
 
-Version de l'ensemble de données sur les barrages avec des mises à jour sur 1 681 barrages à travers le Canada provenant de diverses sources.",:download:`Télécharger la version 1.2 <downloads/release_1.2_2024-01-08.txt>`
+- Chutes v1.1
+
+- Passes à poissons v1.1
+
+Cette version comprend des ensembles de données mis à jour sur les barrages, les chutes et les passes à poissons, avec des mises à jour collectives de ~3000 structures à travers le Canada provenant d'une variété de sources. Cette mise à jour comprend l'ajout de quelques nouvelles structures qui n'étaient pas auparavant dans la BDOAC.",:download:`Télécharger la version 1.2 <downloads/release_1.2_2024-01-08.txt>`
 1.1, "1er février 2023 à 11 h 00 (HE)","Cette publication comprend :
 
 - Barrages v.1.1
@@ -14,14 +18,14 @@ Version mise à jour de l’ensemble de données sur les barrages avec une struc
 
 - Barrages : Deux nouveaux barrages ont été ajoutés en Colombie-Britannique. Huit barrages en Colombie-Britannique et à l'Île-du-Prince-Édouard ont été mis à jour avec de nouvelles informations provenant de groupes locaux.
 
-- Chutes d'eau : Une chute d'eau en Colombie-Britannique a été mise à jour avec de nouvelles informations provenant de groupes locaux.
+- Chutes : Une chute d'eau en Colombie-Britannique a été mise à jour avec de nouvelles informations provenant de groupes locaux.
 
 - Ces changements sont entrés en vigueur dans la version 1.1 le 3 avril 2023, à 10 h 00 (HE). Veuillez retélécharger l’ensemble de données sur les barrages si vous avez téléchargé la version 1.0 avant cette date. ",:download:`Télécharger la version 1.1 <downloads/release_1.1_2023-02-01.txt>`
 1.0,"25 septembre 2022","Version initiale comprenant une couverture nationale complète pour les couches de données, y compris :
 
 - Barrages v1.0
 
-- Chutes d'eau v1.0
+- Chutes v1.0
 
 - Passes à poissons v1.0
 
