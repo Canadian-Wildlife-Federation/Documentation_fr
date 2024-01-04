@@ -42,7 +42,7 @@ L’outil Web
 
 -----
 
-Nous sommes emballés par `l’outil Web BDOAC <https://aquaticbarriers.ca/>`_ qui permet d’explorer les données et d’y accéder facilement au moyen de votre navigateur Web. L’outil et le site de documentation sont offerts en français et en anglais.
+Nous sommes emballés par `l’outil Web BDOAC <https://aquaticbarriers.ca/fr>`_ qui permet d’explorer les données et d’y accéder facilement au moyen de votre navigateur Web. L’outil et le site de documentation sont offerts en français et en anglais.
 
 L’interface cartographique Web permet :
 

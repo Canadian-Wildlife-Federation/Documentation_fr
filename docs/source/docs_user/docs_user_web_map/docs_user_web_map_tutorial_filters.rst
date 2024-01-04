@@ -67,4 +67,4 @@ Vous devez cliquer sur le bouton d’application des filtres pour appliquer les 
 
 Pour effacer tous les filtres sélectionnés et rétablir les valeurs par défaut de la fenêtre « filtres », cliquez sur le bouton « réinitialiser les filtres ». Cette action est irréversible.
 
-Une fois les données filtrées, vous pourrez télécharger les résultats en cliquant sur le bouton « télécharger les données », ce qui ouvrira la fenêtre de téléchargement des données (consultez la rubrique :ref:`Downloading Data <downloading>` pour en savoir plus).
+Une fois les données filtrées, vous pourrez télécharger les résultats en cliquant sur le bouton « télécharger les données », ce qui ouvrira la fenêtre de téléchargement des données (consultez la rubrique :ref:`Téléchargement des données <downloading>` pour en savoir plus).

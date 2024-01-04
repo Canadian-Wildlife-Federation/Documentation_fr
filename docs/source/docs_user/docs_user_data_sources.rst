@@ -7,7 +7,7 @@ Sources des données
 
 .. admonition:: Remarque
     
-    Si vous avez accidentellement fermé votre onglet de l’outil Web de la BDOAC, vous pouvez accéder à l’outil Web `ici <https://aquaticbarriers.ca>`_.
+    Si vous avez accidentellement fermé votre onglet de l’outil Web de la BDOAC, vous pouvez accéder à l’outil Web `ici <https://aquaticbarriers.ca/fr>`_.
 
 
 La BDOAC existe grâce au travail minutieux de bon nombre de groupes et d’organisations qui ont compilé et tenu à jour des inventaires d’obstacles à l’échelle de l’Amérique du Nord et qui les ont rendus accessibles à tous ou qui ont conclu des ententes d’échange de données avec nous. Un grand merci à ces groupes! La BDOAC s’appuie simplement sur ce travail existant, et nous espérons que notre travail visant à combler les lacunes en matière de données profitera en retour aux détenteurs de données originales. Si vous êtes le responsable de l’une des sources des données figurant sur cette page et que vous souhaitez discuter de la manière dont nous pouvons vous permettre de profiter de certaines de nos mises à jour des données, veuillez communiquer avec nous à cabd@cwf-fcf.org.
@@ -18,7 +18,7 @@ Une grande partie du travail effectué par rapport à la BDOAC a servi à dédup
 
     *Veuillez noter que les informations suivantes sur les sources des données sont présentées en anglais car elles proviennent directement de la base de données et ne sont pas encore disponibles en français.*
     
-    *Les données de la BDOAC sont mises à la disposition de tous grâce à la licence* `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_ *Cette licence vous permet de transmettre et d’adapter les données, du moment que vous mentionnez la source et que vous distribuez les données dérivées en utilisant la même licence CC BY-SA 4.0.*
+    *Les données de la BDOAC sont mises à la disposition de tous grâce à la licence* `CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.fr>`_ *Cette licence vous permet de transmettre et d’adapter les données, du moment que vous mentionnez la source et que vous distribuez les données dérivées en utilisant la même licence CC BY-SA 4.0.*
 
 Tableau de recherche des sources des données
 --------------------------------------------

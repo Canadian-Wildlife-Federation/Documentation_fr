@@ -4,7 +4,7 @@
 Téléchargement des détails sur la source des données sur l’élément
 ========================================================================
 
-Pour tenir compte de la cartographie complexe des attributs nécessaire pour alimenter la BDOAC (divers attributs d’une même structure peuvent provenir de différentes sources des données), nous avons mis en place un lien sous **Détails sur la source des données sur l’élément** dans la case contextuelle des attributs (mis en évidence par la case jaune dans l’image ci-dessous) qui vous permet de télécharger un tableau CSV avec tous les renseignements sur les sources des données disponibles pour un point de données particulier. Vous pouvez y accéder au moyen de `l’outil Web <https://aquaticbarriers.ca/>`_ ou en soumettant une demande API au  :ref:`point de fin de la source des données des éléments <feature-datasource-endpoint>`.
+Pour tenir compte de la cartographie complexe des attributs nécessaire pour alimenter la BDOAC (divers attributs d’une même structure peuvent provenir de différentes sources des données), nous avons mis en place un lien sous **Détails sur la source des données sur l’élément** dans la case contextuelle des attributs (mis en évidence par la case jaune dans l’image ci-dessous) qui vous permet de télécharger un tableau CSV avec tous les renseignements sur les sources des données disponibles pour un point de données particulier. Vous pouvez y accéder au moyen de `l’outil Web <https://aquaticbarriers.ca/fr>`_ ou en soumettant une demande API au  :ref:`point de fin de la source des données des éléments <feature-datasource-endpoint>`.
 
 .. figure:: img/download_link_fr.png
     :align: center
