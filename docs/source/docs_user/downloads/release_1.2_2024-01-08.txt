@@ -1,16 +1,17 @@
-CABD Changelog
+Journal des modifications de BDOAC
 
-Date: January 08, 2024 11:00 AM EST
-Version: 1.2
-Summary: Updated version of the dams dataset with updates to 1,681 dams across Canada from a variety of sources. 
+Date : 05 janvier 2024 17 h 00 (HE)
+Version : 1.2
+Résumé : Cette version comprend des ensembles de données mis à jour sur les barrages, les chutes et les passes à poissons, avec des mises à jour collectives de ~3000 structures à travers le Canada provenant d'une variété de sources. Cette mise à jour comprend l'ajout de quelques nouvelles structures qui n'étaient pas auparavant dans la BDOAC.
 
-Data Layers
 
-dams 1.2
-- 36,821 structures
+Couches de données
 
-waterfalls 1.0
-- 22,194 waterfalls
+barrages 1.2
+- 36 968 structures
 
-fishways 1.0
-- 408 fishways
+chutes 1.1
+- 24 981 chutes
+
+passes à poissons 1.1
+- 436 passes à poissons

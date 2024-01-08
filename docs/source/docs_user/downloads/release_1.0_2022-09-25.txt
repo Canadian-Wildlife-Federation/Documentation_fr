@@ -1,16 +1,16 @@
-CABD Changelog
+Journal des modifications de BDOAC
 
-Date: 2022-09-25 09:00 AM
-Version: 1.0
-Summary: Initial release comprising complete national coverage for data layers.
+Date : 25 septembre 2022 09 h 00 (HE)
+Version : 1.0
+Résumé : Version initiale comprenant une couverture nationale complète pour les couches de données.
 
-Data Layers
+Couches de données
 
-dams 1.0
-- 36,799 dams
+barrages 1.0
+- 36 799 barrages
 
-waterfalls 1.0
-- 22,194 waterfalls
+chutes 1.0
+- 22 194 chutes d'eau
 
-fishways 1.0
-- 408 fishways
+passes à poissons 1.0
+- 408 passes à poissons

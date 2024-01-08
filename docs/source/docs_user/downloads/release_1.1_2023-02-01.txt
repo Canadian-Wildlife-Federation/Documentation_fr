@@ -1,16 +1,16 @@
-CABD Changelog
+Journal des modifications de BDOAC
 
-Date: February 1, 2023 11:00 AM EST
-Version: 1.1
-Summary: Updated version of the dams dataset with a modified data structure to allow for more detailed categorization of structures. construction_material_code has been added as a new attribute. The valid values for structure_type_code and function_code have also been modified to allow for better categorization. Most codes for ‘Unknown’ values have also been updated to code 99, with the exception of Passability Status. The ‘Unknown’ value for Passability Status remains as code 4. Please review the Data Catalogue on the CABD documentation site for the latest list of valid values for all attributes. 
+Date : 01 février 2023 11 h 00 (HE)
+Version : 1.1
+Résumé : Version mise à jour du jeu de données sur les barrages avec une structure de données modifiée pour permettre une catégorisation plus détaillée des structures. construction_material_code a été ajouté comme nouvel attribut. Les valeurs valides pour structure_type_code et function_code ont également été modifiées pour permettre une meilleure catégorisation. La plupart des codes pour les valeurs "Inconnu" ont également été mis à jour en code 99, à l'exception de l'état de passabilité. La valeur "inconnue" pour l'état de passabilité reste le code 4. Veuillez consulter le catalogue de données sur le site de documentation du BDOAC pour obtenir la liste la plus récente des valeurs valides pour tous les attributs. 
 
-Data Layers
+Couches de données
 
-dams 1.1
-- 36,794 structures
+barrages 1.1
+- 36 794 structures
 
-waterfalls 1.0
-- 22,194 waterfalls
+chutes 1.0
+- 22 194 chutes d'eau
 
-fishways 1.0
-- 408 fishways
+passes à poissons 1.0
+- 408 passes à poissons
