@@ -48,7 +48,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 import sphinx_book_theme
-html_theme = 'sphinx_book_theme'
+html_theme ='sphinx_book_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -72,7 +72,7 @@ html_logo = '_static/cwf_logo_fr.png'
 
 html_theme_options = {
     'logo_only': True,
-    "repository_url": "https://github.com/Canadian-Wildlife-Federation",
+    "repository_url": "https://github.com/Canadian-Wildlife-Federation/Documentation_fr",
     "use_issues_button": True,
     "repository_branch": "",
     "use_repository_button": True,

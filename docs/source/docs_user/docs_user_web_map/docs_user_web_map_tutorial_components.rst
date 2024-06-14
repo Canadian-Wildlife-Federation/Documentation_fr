@@ -45,6 +45,10 @@ On définit le type d’élément (barrage, chute ou passe à poissons) qu’un 
 
 Pour gagner de l’espace dans la fenêtre de visualisation de la carte, vous pouvez réduire la fenêtre de la légende en cliquant sur le cercle rouge dans son coin supérieur droit. Pour restaurer la fenêtre de la légende, cliquez simplement sur le bouton « légende ».
 
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/Legend.mp4"></video>
+
 Panneau de gauche
 ~~~~~~~~~~~~~~~~~
 
