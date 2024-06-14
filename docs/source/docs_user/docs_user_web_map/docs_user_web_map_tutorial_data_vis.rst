@@ -12,6 +12,10 @@ Pour modifier la visibilité des couches de données, accédez à l’onglet « 
     :align: left
     :width: 70%
 
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/visualizing_data.mp4"></video>
+
 Mode accessibilité
 ------------------
 
@@ -20,3 +24,7 @@ Au bas du panneau des couches, vous trouverez un bouton de basculement « mode a
 .. figure:: img/accessibility_mode_all_highlight_fr.png
     :align: left
     :width: 90%
+
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/accessibility.mp4"></video>

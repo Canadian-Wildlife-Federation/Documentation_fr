@@ -39,6 +39,14 @@ Pour ce faire, vous devez activer la couche des limites de bassin versant du RHN
     
     Les données ne peuvent être filtrées que par province et territoire ou par bassin versant. Vous pouvez faire une sélection pour chacune de ces deux options, mais seuls les critères dans la fenêtre active seront utilisés pour le filtrage des données.
 
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/filter_by_province.mp4"></video>
+    
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/filter_by_watershed.mp4"></video>
+
 Filtrage par attribut
 ---------------------
 
@@ -59,6 +67,10 @@ Pour afficher les attributs filtrables d’un type d’élément, agrandissez la
     :width: 100%
 
     Filtrage des barrages de façon à ce que seules les structures ayant été mises hors service ou retirées soient affichées
+
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/filter_by_attribute.mp4"></video>
 
 Boutons « appliquez les filtres », « réinitialiser les filtres » et « télécharger les données »
 -----------------------------------------------------------------------------------------------
