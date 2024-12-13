@@ -7,7 +7,7 @@ Filtrage des données
 Pour filtrer les données en fonction d’un ensemble de critères, ouvrez la fenêtre « filtres » en cliquant sur l’onglet « filtrer les données » dans le panneau de gauche.
 
 .. figure:: img/panel_filters_highlight_crop_fr.png
-    :align: left
+    :align: center
     :width: 60%
 
 Filtrage par emplacement

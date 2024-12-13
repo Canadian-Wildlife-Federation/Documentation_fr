@@ -7,7 +7,7 @@ Sources des données
 Vous pouvez accéder aux renseignements sur toutes les sources des données spatiales et non spatiales à l’onglet « sources des données » dans le panneau de gauche. La page « sources des données » du site de documentation de la BDOAC s’ouvrira dans un nouvel onglet de votre navigateur lorsque vous cliquerez sur le bouton prévu à cette fin.
 
 .. figure:: img/panel_data_sources_highlight_fr.png
-    :align: left
+    :align: center
     :width: 40%
 
 

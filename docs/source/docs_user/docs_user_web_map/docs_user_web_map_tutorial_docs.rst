@@ -7,7 +7,7 @@ Site de documentation
 Vous pouvez accéder au site de documentation de la BDOAC en cliquant sur l’onglet « site de documentation » dans le panneau de gauche.
 
 .. figure:: img/panel_documentation_site_highlight_fr.png
-    :align: left
+    :align: center
     :width: 50%
     
 
