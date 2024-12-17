@@ -6,6 +6,10 @@ Consultation des renseignements sur les attributs
 
 Pour voir les renseignements relatifs aux attributs d’une structure, cliquez simplement sur son point dans l’espace cartographique et la fenêtre contextuelle des attributs s’affichera.
 
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/viewing_attribute_data.mp4"></video>
+
 .. figure:: img/attributes_popup_zoom_fr.png
     :align: left
     :width: 80%
@@ -22,3 +26,7 @@ Veuillez consulter la section `Téléchargement des détails sur la source des d
 .. figure:: img/attributes_popup_download_highlight_fr.png
     :align: left
     :width: 50%
+
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/downloading_data.mp4"></video>

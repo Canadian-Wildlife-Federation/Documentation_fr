@@ -22,3 +22,7 @@ Une fois que vous avez choisi un type d’ensemble de données, vous pouvez sél
 Si vous téléchargez toutes les données, vous devrez sélectionner la couche pour laquelle vous souhaitez obtenir les données. Si vous souhaitez télécharger toutes les données pour plusieurs couches, vous devrez télécharger les données de chaque couche séparément.
 
 Au cours de ce processus, vous pouvez naviguer dans la vue cartographique pendant que la fenêtre de téléchargement est ouverte. Pour modifier les filtres appliqués aux données, vous pouvez cliquer sur le bouton « modifier des filtres ».
+
+.. raw:: html
+
+    <video controls width="600"><source src="../../_static/downloading_csv.mp4"></video>
