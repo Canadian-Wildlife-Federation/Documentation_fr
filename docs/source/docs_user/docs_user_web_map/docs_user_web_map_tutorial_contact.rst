@@ -8,4 +8,4 @@ Pour toute question, vous pouvez communiquer avec l’équipe de la BDOAC en cli
 
 .. figure:: img/panel_contact_us_highlight_fr.png
     :align: left
-    :width: 50%
+    :width: 30%
