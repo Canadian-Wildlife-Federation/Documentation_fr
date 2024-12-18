@@ -7,7 +7,7 @@ Téléchargement des données
 Vous pouvez télécharger les données en ouvrant la fenêtre « télécharger ». Pour ouvrir cette fenêtre, cliquez sur le bouton « télécharger les données » dans la fenêtre « filtres » ou accédez à l’onglet « télécharger des données » dans le panneau de gauche.
 
 .. figure:: img/download_crop_highlight_crop_fr.png
-    :align: left
+    :align: center
     :width: 80%
 
 Trois options s’offrent à vous pour le téléchargement des données :
